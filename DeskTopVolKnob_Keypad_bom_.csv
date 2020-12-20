@@ -1,0 +1,30 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,"Unpolarized capacitor, small symbol",C_Small,C6 C7,22pF,C_0805_2012Metric,2,~
+2,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C3 C4,0.1uF,C_0805_2012Metric,4,~
+3,"Unpolarized capacitor, small symbol",C_Small,C8,1uF,D_0603_1608Metric,1,~
+4,"Unpolarized capacitor, small symbol",C_Small,C5,10uF,C_0805_2012Metric,1,~
+5,RGB LED with integrated controller,APA102-2020,D26 D27 D28 D29 D30 D31 D32 D33 D34 D35 D36 D37 D38 D39 D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50,APA102-2020,LED-APA102-2020,25,http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
+6,Diode,D,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25,D,D_0603_1608Metric,25,~
+7,USB 2.0-only Type-C Receptacle connector,USB_C_Receptacle_USB2.0,J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_Palconn_UTC16-G,1,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+8,Resistor,R,R3 R4,22,R_0805_2012Metric,2,~
+9,Resistor,R,R1 R2,5.1k,R_0805_2012Metric,2,~
+10,Resistor,R,R5 R7 R8 R9,10k,R_0805_2012Metric,4,~
+11,Resistor,R,R6 R10,20k,R_0805_2012Metric,2,~
+12,"Rotary encoder, dual channel, incremental quadrate outputs, with switch",Rotary_Encoder_Switch,SW1,Rotary_Encoder_Switch,RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm,1,~
+13,"Push button switch, generic, two pins",SW_Push,SW2 SW3 SW4 SW5 SW6 SW7 SW8 SW9 SW10 SW11 SW12 SW13 SW14 SW15 SW16 SW17 SW18 SW19 SW20 SW21 SW22 SW23 SW24 SW25 SW26,SW,SW_Cherry_MX_1.00u_PCB,25,~
+14,"16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44",ATmega32U4-AU,U1,ATmega32U4-AU,TQFP-44_10x10mm_P0.8mm,1,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
+15,"Three pin crystal, GND on pin 2, small symbol",Crystal_GND2_Small,Y1,16MHz,Crystal_HC52-U-3Pin_Vertical,1,~
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
