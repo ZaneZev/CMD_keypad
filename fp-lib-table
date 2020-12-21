@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "Downloaded parts")(type KiCad)(uri "${KIPRJMOD}/Downloaded parts")(options "")(descr ""))
+  (lib (name "Special Partd")(type KiCad)(uri "${KIPRJMOD}/Custom Lib")(options "")(descr ""))
+  (lib (name "Custom Lib")(type KiCad)(uri "${KIPRJMOD}/Custom Lib.pretty")(options "")(descr ""))
 )

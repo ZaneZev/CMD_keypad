@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name DX07S016JA1R1500)(type Legacy)(uri "${KIPRJMOD}/Downloaded parts/DX07S016JA1R1500.lib")(options "")(descr ""))
+  (lib (name "Special Parts")(type Legacy)(uri "${KIPRJMOD}/Custom Lib/Special Parts.lib")(options "")(descr ""))
 )
