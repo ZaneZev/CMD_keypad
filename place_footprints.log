@@ -1,0 +1,14 @@
+03-16 17:31:53 place_footprints.action_place_footprints 414:Plugin executed on: 'win32'
+03-16 17:31:53 place_footprints.action_place_footprints 415:Plugin executed with python version: '2.7.18 (default, Apr 20 2020, 16:57:11)  [GCC 9.3.0 64 bit (AMD64)]'
+03-16 17:31:53 place_footprints.action_place_footprints 416:KiCad build version: (5.1.8)-1
+03-16 17:31:53 place_footprints.action_place_footprints 417:Place footprints plugin version: 45 started
+03-16 17:31:54 place_footprints.place_footprints 209:getting project hierarchy from schematics
+03-16 17:31:54 place_footprints.place_footprints 218:getting a list of all footprints on board
+03-16 17:31:54 place_footprints.action_place_footprints 463:Reference designator is: D
+03-16 17:31:54 place_footprints.action_place_footprints 464:Rerefence number is: 31
+03-16 17:31:54 place_footprints.action_place_footprints 495:Sorted and filtered list:
+[u'D1', u'D2', u'D3', u'D4', u'D5', u'D6', u'D7', u'D8', u'D9', u'D10', u'D11', u'D12', u'D13', u'D14', u'D15', u'D16', u'D17', u'D18', u'D19', u'D20', u'D21', u'D22', u'D23', u'D24', u'D25', u'D26', u'D27', u'D28', u'D29', u'D30', u'D31', u'D32', u'D33', u'D34', u'D35', u'D36', u'D37', u'D38', u'D39', u'D40', u'D41', u'D42', u'D43', u'D44', u'D45', u'D46', u'D47', u'D48', u'D49', u'D50', u'D51', u'D52', u'D53']
+03-16 17:33:14 place_footprints.action_place_footprints 526:Modules to place:
+[u'D26', u'D27', u'D28', u'D29', u'D30', u'D31', u'D32', u'D33', u'D34', u'D35', u'D36', u'D37', u'D38', u'D39', u'D40', u'D41', u'D42', u'D43', u'D44', u'D45', u'D46', u'D47', u'D48', u'D49', u'D50', u'D51', u'D52', u'D53']
+03-16 17:33:14 place_footprints.place_footprints 396:Starting placing with matrix layout
+03-16 17:33:14 place_footprints.action_place_footprints 593:Placing complete
